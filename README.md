@@ -23,7 +23,7 @@ Repositório do projeto **Landing Page** proposto no curso d.
 
 <h3 id="preview">🎥 Preview</h3>
 
-<img src="" width="600px">
+<img src="./images/readme.gif" width="600px">
 
 <h3 id="status">📌 Status do projeto</h3>
 
